@@ -12,7 +12,7 @@
 
 컨트롤 패널의 기본은 홈 모드입니다. 여기에서는 객체를 편집하기 위한 다양한 인스펙터들을 보여줍니다.
 
-![inspector](./figure/inspector-panel.png)
+![inspector](figure/04-1(깸).jpg)
 
 ### ① 클립보드
 
@@ -40,13 +40,10 @@
 
 객체를 선택한 뒤 정렬 아이콘을 클릭하면 배치 순서를 바꿀 수 있습니다.
 
-![layer](./figure/layer.png)
-
 레이어 기본 화면
-<figure>
-<img src='./figure/bring-front.png'>
-<figcaption>객체를 앞으로 가져오기</figcaption>
-</figure>
+![layer](figure/4-2(2).jpg)
+<img src='./figure/4-2(2).jpg' width="600">
+
 
 #### 객체를 앞으로 가져오려면
 

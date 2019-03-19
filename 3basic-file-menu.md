@@ -74,8 +74,8 @@ PDF불러오기 메뉴에서는 pdf 파일을 불러올 수 있습니다.
 
 작업환경 탭에서는 스냅영역, 안내선 위치와 색상을 설정합니다.
 
-![preferences](./figure/03-4.jpg)
+![preferences](figure/03-4.jpg)
 
 문서 정보 탭에서는 문서의 정보를 설정합니다. 파일명이 비어있을 경우 html파일명은 페이지 번호순으로 생성됩니다.
 
-![setup-document-info](./figure/03-5.jpg)
+![setup-document-info](figure/03-5.jpg)
