@@ -51,7 +51,7 @@
 PDF불러오기 메뉴에서는 pdf 파일을 불러올 수 있습니다.
 불러온 페이지는 페이지빌더의 개별 페이지에 배치됩니다.
 
-![pdf-import](./figure/basic-file-import-pdf.png)
+
 
 ### ⑨ PDF가져오기
 

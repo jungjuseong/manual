@@ -17,7 +17,7 @@ title: Pagebuilder User manual
 
 1. Page Builder.exe 실행파일을 클릭합니다.
    
-   ![launching]('./figure/1-2.jpg')
+   ![]('./figure/1-2.jpg')
 
 2. 설치 시작 화면에서 <button name="button">다음(N)></button>을 클릭합니다.
 
@@ -35,4 +35,8 @@ title: Pagebuilder User manual
 
 시작 메뉴를 클릭하여 앞에서 설치한 페이지빌더를 찾아 클릭하면 프로그램이 실행됩니다.
 
-   <img src='./figure/2-6.png'>
+   ![](figure/01.png)
+
+
+  
+   ![](figure/01-1.jpg)
