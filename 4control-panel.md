@@ -41,7 +41,6 @@
 객체를 선택한 뒤 정렬 아이콘을 클릭하면 배치 순서를 바꿀 수 있습니다.
 
 레이어 기본 화면
-![layer](figure/4-2(2).jpg)
 <img src='./figure/4-2(2).jpg' width="600">
 
 
@@ -51,7 +50,7 @@
 
 | 오리지널 | 앞으로 가져오기 | 맨앞으로 가져오기 |
 | :-----: | :-----: | :-----: |
-| ![layer](./figure/layer-original.png) | ![layer](./figure/layer-bring-to-front.png) | ![layer](./figure/layer-bring-to-top.png) |
+| <img src='./figure/4-3-1.jpg' width="300"> | <img src='./figure/4-3-2.jpg' width="300"> | <img src='./figure/4-3-3.jpg' width="300"> |
 
 #### 객체를 뒤로 가져오려면
 
@@ -66,47 +65,44 @@
 
 작업 화면의 확대/축소를 조절합니다.
 
-![zoom](./figure/zoom.png)
+<img src='./figure/4-4.jpg' width="250">
 
 ### ⑦ 문서
 
 - INFO: 페이지 빌더의 버전을 확인할 수 있습니다.
 - 유실항목 보기: 유실된 파일, 액션, 폰트 목록을 확인할 수 있습니다.
 
-![document](./figure/find-resource.png)
-
-![document](./figure/resource-replace.png)
+<img src='./figure/4-5.jpg' width="400" >
 
 - 왼쪽 아이콘 - 유실된 파일을 다른 파일로 대치합니다.
 - 오른쪽 아이콘 - 폴더 전체의 파일들을 같은 이름의 파일로 대치합니다
+
+[comment]: # ( 1번, 2번으로 수정하기)
 
 ----------------------
 ## 삽입 모드
 
 메뉴에서 삽입 탭을 선택하면 인스펙터 패널은 삽입 모드로 바뀝니다.
 
-![control-panel](./figure/control-panel-insert.png)
+<img src='./figure/4-6_깸.jpg' width="900" >
 
-### ① 붙이기
+### ① 편집
 
-붙이기 아이콘을 누르면 붙이기, 오려두기, 복사하기를 선택할 수 있습니다.
-
-![control-panel](./figure/control-panel-insert-paste.png)
-
-### ② 편집
-
-![control-panel](./figure/control-panel-edit.png)
+<img src='./figure/4-7.jpg' width="400" >
 
 예를들어 텍스트 박스 버튼을 클릭하고 작업 영역에 드래그를 하면 텍스트 박스가 생성됩니다.
 
-![insert-text-box](./figure/control-panel-insert-textbox-drop.png)
+<img src='./figure/4-8.jpg' width="600" >
 
 텍스트 박스가 선택되면 컨트롤 패널은 텍스트 박스 인스펙터가 됩니다.
 
 ### [텍스트 박스 인스펙터]
 
-![textbox-inspector](./figure/control-panel-textbox-inspector1.png)
-![textbox-inspector](./figure/control-panel-textbox-inspector2.png)
+<img src='./figure/4-9.jpg'>
+
+
+
+
 
 여기에서 폰트의 종류, 폰트 크기 등의 텍스트 스타일과 인덴테이션, 행 간격 등 단락 스타일을 지정할 수 있습니다.
 
@@ -116,7 +112,7 @@
 
 컨트롤 패널은 텍스트 박스와 마찬가지로 이미지가 선택하면 이미지 박스의 인스펙터로 바뀐다. 
 
-![textbox-inspector](./figure/control-panel-imagebox-inspector.png)
+<img src='./figure/4-10.jpg'>
 
 여기에서는 이미지의 크기 조정과 속성을 선택할 수 있습니다. 왼쪽의 옵션 영역의 파일 아이콘을 클릭하면 이미지 파일을 선택할 수 있습니다.  
 

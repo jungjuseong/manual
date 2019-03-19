@@ -35,7 +35,8 @@ title: Pagebuilder User manual
 
 시작 메뉴를 클릭하여 앞에서 설치한 페이지빌더를 찾아 클릭하면 프로그램이 실행됩니다.
 
-   ![](figure/01.png)
+
+   <img src='./figure/01.png' width=300>
 
 
   

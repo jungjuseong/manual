@@ -14,8 +14,8 @@
 
 새로 작업을 시작합니다. 이 곳에서 작업영역의 크기와 용지 방향을 지정할 수 있습니다. 설정이 끝나면 [확인] 을 클릭합니다
 
-![file/new](./figure/03-2.jpg)
 
+<img src='./figure/03-2.jpg' width="400">
 
  <교정: 페이지 수 그래픽/텍스트 페이지 선택은 없음>
 
@@ -74,8 +74,8 @@ PDF불러오기 메뉴에서는 pdf 파일을 불러올 수 있습니다.
 
 작업환경 탭에서는 스냅영역, 안내선 위치와 색상을 설정합니다.
 
-![preferences](figure/03-4.jpg)
+<img src='./figure/03-4.jpg' width="400">
 
 문서 정보 탭에서는 문서의 정보를 설정합니다. 파일명이 비어있을 경우 html파일명은 페이지 번호순으로 생성됩니다.
 
-![setup-document-info](figure/03-5.jpg)
+<img src='./figure/03-5.jpg' width="400">
