@@ -16,20 +16,20 @@ title: Pagebuilder User manual
 ## 설치 따라하기 
 
 1. Page Builder.exe 실행파일을 클릭합니다.
-  <img src='./figure/2-0.jpg' width=480pt>
+  <img src='./figure/.jpg' width=480pt> 이미지 수정하기
 
 
 
 2. 설치 시작 화면에서 <button name="button">다음(N)></button>을 클릭합니다.
-<img src='./figure/2-1.jpg' width=480pt>
+<img src='./figure/jpg' width=480pt>
 
 
 3. 다음 화면에서 <button name="button">다음(N)></button>을 클릭합니다.
-  <img src='./figure/2-2.jpg' width=480pt>
+  <img src='./figure/jpg' width=480pt>
 
 
 4. '동의함(A)'를 체크하고  <button name="button">설치(I)></button>을 클릭합니다. 
-<img src='./figure/2-3.jpg' width=480pt>
+<img src='./figure/jpg' width=480pt>
 
 1. <button name="button">마침(F)></button>을 클릭합니다.
 
