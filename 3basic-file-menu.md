@@ -7,22 +7,22 @@
 
 ## 파일 메뉴
 
-<img src='./figure/03-1.jpg' width="300">
+<img src='./figure/03-1.jpg' width="500">
 
 
 ### ① 새로 만들기
 
-새로 작업을 시작합니다. 이 곳에서 작업영역의 크기와 용지 방향을 지정할 수 있습니다. 설정을 완료하면 [확인] 을 클릭합니다
+새로 작업을 시작합니다. 이 곳에서 작업영역의 크기와 용지 방향을 지정할 수 있습니다. 설정을 완료하면 [확인] 을 클릭합니다.
 
+<img src='./figure/03-2.jpg' width="500">
 
-<div class="image-wrapper" style="background: url('./figure/03-2.jpg') no-repeat #edf0e6;">
+<div class="image-wrapper" style="background:url('./figure/03-2.jpg) #edf0e6 no-repeat; width:1000px;  height:600px"> </div>
 
-</div>
-
+<div class="image-wrapper" style="background:url('./figure/03-2.jpg') #edf0e6 no-repeat; width:700px;  height:1000px"> </div>
 
 ### ② 열기
 
-저장된 페이지빌더 파일(확장자 .pb)을 열 수 있습니다.
+저장된 페이지빌더 파일(확장자.pb)을 열 수 있습니다.
 
 ### ③ 최근 파일
 
@@ -56,24 +56,25 @@ PDF가져오기 메뉴에서는 pdf 파일을 불러올 수 있습니다.
 
 ### ⑩ 내보내기
 
-내보내기 기능에는 "썸네일 저장하기" 와 "HTML5 내보내기"가 있습니다.
+내보내기 기능에는 [썸네일 저장하기] 와 [HTML5 내보내기]가 있습니다.
 
-"썸네일 저장하기" 에서는 작업에 사용된 모든 이미지가 한 폴더에 저장됩니다.
+[썸네일 저장하기] 에서는 작업에 사용된 모든 이미지가 한 폴더에 저장됩니다.
 
-<img src='./figure/03-4.jpg' width="500">
+<img src='./figure/3-4.jpg' width="500">
 
-"HTML5 내보내기" 에서는 작업한 문서가 [파일명]_Html 폴더로 내보내집니다. 저장 후 바로 웹 브라우저에서 확인이 가능합니다. zip 파일이 동시에 생성됩니다. 
 
-<img src='./figure/03-5.jpg' width="500">
+[HTML5 내보내기] 에서는 작업한 문서가 [파일명]_Html 폴더로 내보내집니다. 저장 후 바로 웹 브라우저에서 확인이 가능합니다. zip 파일이 동시에 생성됩니다. 
+
+<img src='./figure/3-5.jpg' width="500">
 
 ### ⑩ 페이지빌더에 관하여 / 환경설정
 
 페이지빌더의 버전 정보를 확인할 수 있습니다.
 
-"작업환경 탭"에서는 스냅영역, 안내선 위치와 색상을 설정합니다.
+[작업환경 탭]에서는 스냅영역, 안내선 위치와 색상을 설정합니다.
 
-<img src='./figure/03-6.jpg' width="500">
+<img src='./figure/3-6.jpg' width="500">
 
-"문서 정보 탭"에서는 문서의 정보를 설정합니다. 파일명이 비어있을 경우 html파일명은 페이지 번호순으로 생성됩니다.
+[문서 정보 탭]에서는 문서의 정보를 설정합니다. 파일명이 비어있을 경우 html파일명은 페이지 번호순으로 생성됩니다.
 
-<img src='./figure/03-7.jpg' width="500">
+<img src='./figure/3-7.jpg' width="500">
