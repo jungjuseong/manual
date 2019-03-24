@@ -6,16 +6,16 @@ title: Pagebuilder User manual
 
 # 2. 페이지 빌더 설치하기
 
-## 2-1. 설치 환경
+## 페이지빌더 설치 환경
 
 * Operating System: Window7 이상
 * Memory: 최소4G, 권장 8G 이상
 * Framework: Microsoft .Net Framework 4.6.1 이상
 * Library: Microsoft Visual C++ 2013 Redistributable
 
-## 2-2. 설치 따라하기 
+## 설치 따라하기 
 
-1. Page Builder.exe 실행파일을 클릭합니다. <br>
+1. Page Builder.exe 실행 파일을 더블클릭합니다. <br>
 <br><img src='./figure/2-1.jpg' width=500pt>
 
 2. 설치 시작 화면에서 <button name="button">다음(N)></button>을 클릭합니다. <br>
@@ -30,13 +30,11 @@ title: Pagebuilder User manual
 5. <button name="button">마침(F)></button>을 클릭합니다. <br>
  <br><img src='./figure/2-5.jpg' width=500pt>
 
-## 2-3. 설치한 프로그램 실행
+## 페이지빌더 실행
 
 시작 메뉴를 클릭하여 앞에서 설치한 페이지빌더를 찾아 클릭하면 프로그램이 실행됩니다.
 
-
    <img src='./figure/01.png' width="300">
-
 
   
    ![](figure/01-1.jpg)
