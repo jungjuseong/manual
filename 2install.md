@@ -1,8 +1,3 @@
----
-layout: post
-published-on: 25 May 2019
-title: Pagebuilder User manual
----
 
 # 2. 페이지 빌더 설치하기
 
